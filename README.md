@@ -179,6 +179,4 @@ if (isMaliciousDomain) {
 }
 ```
 
-# PhishGuard2.0
-
-# scaling-chainsaw
+# PhishGuard1.0
